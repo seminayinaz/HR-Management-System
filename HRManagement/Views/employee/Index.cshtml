@@ -1,0 +1,38 @@
+﻿@using HRManagement.Models
+@model List<Employee>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Test.cshtml";
+}
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+        <th>Departman</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+
+    </tr>
+    @foreach (var i in Model)
+    {
+        <tr>
+            <td>@i.employee_id</td>
+            <td>@i.employee_name</td>
+            <td>@i.employee_surname</td>
+            <td>@i.employee_city</td>
+            <td>@i.dpt?.department_name</td>
+            <td><a href="#" class="btn btn-danger">Sil</a></td>
+            <td><a href="#" class="btn btn-success">Güncelle</a></td>
+            <td><a href="#" class="btn btn-default" style="background-color:gold">Detaylar</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/employee/AddEmployee" class="btn btn-primary">Yeni Personel Ekle</a>
+

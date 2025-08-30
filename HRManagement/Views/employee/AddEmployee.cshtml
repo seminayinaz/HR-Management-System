@@ -1,0 +1,25 @@
+﻿@model HRManagement.Models.Employee
+
+@{
+    ViewData["Title"] = "AddEmployee";
+    Layout = "~/Views/Shared/_Test.cshtml";
+}
+
+<br />
+<form class="form-group" method="post">
+    @* @Html.LabelFor(x=>x.department_name) *@
+    <b>Personel Adı</b>
+    @Html.TextBoxFor(x => x.employee_name, new { @class = "form-control" })
+    <br />
+    <b>Personel Soyadı</b>
+    @Html.TextBoxFor(x => x.employee_surname, new { @class = "form-control" })
+    <br />
+    <b>Şehir</b>
+    @Html.TextBoxFor(x => x.employee_city, new { @class = "form-control" })
+    <br />
+    <b>Departman</b>
+    @Html.DropDownListFor(x=>x.dpt.department_id, (List<SelectListItem>)ViewBag.dgr, new {@class="form-control"})
+    <br />
+    <button class="btn btn-default" style="background-color:gainsboro"><b>Personel Ekle</b></button>
+</form>
+

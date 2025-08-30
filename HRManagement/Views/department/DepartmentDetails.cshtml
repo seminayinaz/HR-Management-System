@@ -1,0 +1,30 @@
+﻿@using HRManagement.Models
+@model List<Employee>
+
+@{
+    ViewData["Title"] = "DepartmentDetails";
+    Layout = "~/Views/Shared/_Test.cshtml";
+}
+
+
+<br />
+<h2>@ViewBag.departmentName Departmanı</h2>
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Ad</th>
+        <th>Soyad</th>
+        <th>Şehir</th>
+    </tr>
+    @foreach (var i in Model)
+    {
+        <tr>
+            <td>@i.employee_id</td>
+            <td>@i.employee_name</td>
+            <td>@i.employee_surname</td>
+            <td>@i.employee_city</td>
+        </tr>
+    }
+</table>
+

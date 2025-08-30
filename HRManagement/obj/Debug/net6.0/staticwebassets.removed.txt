@@ -1,0 +1,11 @@
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\css\font-awesome.css
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\css\style.css
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\fontawesome-webfont.eot
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\fontawesome-webfont.svg
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\fontawesome-webfont.ttf
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\fontawesome-webfont.woff
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\fontawesome-webfont.woff2
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\fonts\FontAwesome.otf
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\images\3.jpg
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\index.html
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\wwwroot\web\w3layouts-License.txt

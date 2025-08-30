@@ -1,0 +1,30 @@
+﻿@using HRManagement.Models
+@model List<Department>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Test.cshtml";
+}
+
+<br />
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Departman</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+        <th>Detaylar</th>
+    </tr>
+    @foreach (var i in Model)
+    {
+        <tr>
+            <td>@i.department_id</td>
+            <td>@i.department_name</td>
+            <td><a href="/department/DeleteDepartment/@i.department_id" class="btn btn-danger">Sil</a></td>
+            <td><a href="/department/FindDepartment/@i.department_id" class="btn btn-success">Güncelle</a></td>
+            <td><a href="/department/DepartmentDetails/@i.department_id" class="btn btn-default" style="background-color:gold">Detaylar</a></td>
+        </tr>
+    }
+</table>
+
+<a href="/department/AddDepartment" class="btn btn-primary">Yeni Departman Ekle</a>
+

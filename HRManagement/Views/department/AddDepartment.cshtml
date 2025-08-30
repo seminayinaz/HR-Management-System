@@ -1,0 +1,16 @@
+﻿@model HRManagement.Models.Department
+
+@{
+    ViewData["Title"] = "AddDepartment";
+    Layout = "~/Views/Shared/_Test.cshtml";
+}
+
+<br />
+<form class="form-group" method="post">
+    @* @Html.LabelFor(x=>x.department_name) *@
+    <b>Departman Adı</b>
+    @Html.TextBoxFor(x=>x.department_name, new { @class="form-control" })
+    <br />
+    <button class="btn btn-default" style="background-color:gainsboro"><b>Departman Ekle</b></button>
+</form>
+
