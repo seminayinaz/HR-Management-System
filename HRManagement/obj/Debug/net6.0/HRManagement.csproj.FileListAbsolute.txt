@@ -745,3 +745,17 @@ C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\o
 C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\obj\Debug\net6.0\HRManagement.pdb
 C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\obj\Debug\net6.0\HRManagement.genruntimeconfig.cache
 C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\obj\Debug\net6.0\ref\HRManagement.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\System.Security.Cryptography.Xml.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\asus.LAPTOP-F1C7MUGD\OneDrive\Masaüstü\C#\HRManagement\HRManagement\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

@@ -64,16 +64,4 @@ wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
 wwwroot\login\HR-Management.png
 wwwroot\login\index.html
-wwwroot\login\script.js
 wwwroot\login\style.css
-wwwroot\web\css\font-awesome.css
-wwwroot\web\css\style.css
-wwwroot\web\fonts\fontawesome-webfont.eot
-wwwroot\web\fonts\fontawesome-webfont.svg
-wwwroot\web\fonts\fontawesome-webfont.ttf
-wwwroot\web\fonts\fontawesome-webfont.woff
-wwwroot\web\fonts\fontawesome-webfont.woff2
-wwwroot\web\fonts\FontAwesome.otf
-wwwroot\web\images\3.jpg
-wwwroot\web\index.html
-wwwroot\web\w3layouts-License.txt

@@ -12,10 +12,7 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     x.LoginPath = "/Login/Login";
 });
 
-//builder.Services.AddDbContext<Context>(options =>
-//{
-//    options.UseSqlServer(builder.Configuration.GetConnectionString("SqlCon"));
-//});
+
 
 var app = builder.Build();
 
@@ -31,6 +28,8 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

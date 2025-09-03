@@ -7,6 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="wwwroot\login\css\**" />
+    <Content Remove="wwwroot\login\css\**" />
+    <EmbeddedResource Remove="wwwroot\login\css\**" />
+    <None Remove="wwwroot\login\css\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.3.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
       <PrivateAssets>all</PrivateAssets>
@@ -32,7 +40,6 @@
     <Folder Include="wwwroot\lib\jquery-validation\dist\" />
     <Folder Include="wwwroot\lib\jquery\" />
     <Folder Include="wwwroot\lib\jquery\dist\" />
-    <Folder Include="wwwroot\login\css\" />
   </ItemGroup>
 
 </Project>
